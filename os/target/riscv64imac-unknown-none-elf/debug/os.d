@@ -1,0 +1,1 @@
+/home/zqm/zqm/SCU_LAB0/os/target/riscv64imac-unknown-none-elf/debug/os: /home/zqm/zqm/SCU_LAB0/os/src/console.rs /home/zqm/zqm/SCU_LAB0/os/src/entry.asm /home/zqm/zqm/SCU_LAB0/os/src/main.rs /home/zqm/zqm/SCU_LAB0/os/src/panic.rs /home/zqm/zqm/SCU_LAB0/os/src/sbi.rs
