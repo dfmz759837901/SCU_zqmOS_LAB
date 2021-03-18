@@ -19,3 +19,7 @@ rust nightly-2020-06-27
 ### 实验一  内核启动
 
 ![1](img/img1.png)
+
+### 实验二  中断
+
+![2](img/img2.png)
