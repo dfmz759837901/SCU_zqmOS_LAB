@@ -63,8 +63,8 @@ pub extern "C" fn rust_main() -> ! {
     for (i, value) in vec.into_iter().enumerate() {
         assert_eq!(value, i);
     }
-    println!("heap test passed");
-
+    println!("heap test passed,珠齐明!");
+    println!("{}", *memory::config::KERNEL_END_ADDRESS);
     println!("shutdown!");
     sbi::shutdown();
     //panic!()

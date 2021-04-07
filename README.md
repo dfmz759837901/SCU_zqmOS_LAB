@@ -28,5 +28,8 @@ rust nightly-2020-06-27
 
 ##### 动态内存分配
 
-![3](img/img3.png)
+![3](img/img3-1.png)
 
+##### 物理内存分配
+
+![3](img/img3-2.png)
