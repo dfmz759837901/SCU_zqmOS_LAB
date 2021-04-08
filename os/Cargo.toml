@@ -1,7 +1,7 @@
 [package]
 name = "os"
 version = "0.1.0"
-authors = ["yneversky"]
+authors = ["zqm"]
 edition = "2018"
 
 # panic 时直接终止，因为我们没有实现堆栈展开的功能
@@ -17,3 +17,5 @@ panic = "abort"
 riscv = {path = "src/riscv"}
 buddy_system_allocator = {path = "src/buddy_system_allocator"}
 lazy_static = { version = "1.4.0", features = ["spin_no_std"] }
+algorithm = { path = 'src/algorithm' }
+spin = "0.5.2"
